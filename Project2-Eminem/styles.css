@@ -1,0 +1,17 @@
+body {
+    margin: 50px; 
+   }
+
+   h1, h2 {
+    color:azure;
+    background-color:black; 
+    border-radius: 5px; /* to add some beauty */
+    padding: 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   }
+
+   ul {
+    margin-top: 30px;
+    margin-bottom: 30p;
+   }
