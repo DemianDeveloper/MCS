@@ -36,7 +36,7 @@
   height: 100px;
   display: flex;
   background: #E5E000;
-  padding: 50px 80px;
+  padding: 30px 80px;
 }
 
 .ob_artiste  {
@@ -55,44 +55,44 @@
 }
 
 .text_box {
-  padding: 120px 80px;
-  height: 200px;
+  padding: 120px 80px 30px;
+
   background: #FFFFFF;
 }
 
 .text {
-font-family: 'Helvetica';
-font-style: normal;
-font-weight: 700;
-font-size: 50px;
-line-height: 57px;
+ font-family: 'Helvetica';
+ font-style: normal;
+ font-weight: 700;
+ font-size: 50px;
+ line-height: 57px;
 
-color: #000000;
+ color: #000000;
 }
 
 p {
   padding: 20px 0 20px 10px;
   margin-top: 25px;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
   }
   
-  /* не понятно  */
+
 .footer-container {
   height: 200px;
   background: #E5E000;
-  display: flex;
 
   } 
   
  .footer {
-  height: 200px;
+  padding: 70px 80px 20px 80px; 
+
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
  }
   
   .logo {
-  background: #FFFFFF;
+  background: #E5E000;
   }
   
   .text_footer {
