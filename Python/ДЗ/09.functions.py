@@ -9,6 +9,7 @@ def get_summa_activa():
     print(summa)
     return summa
 
+
 summa_a = get_summa_activa()
 balance = 77
 
